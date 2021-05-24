@@ -1,0 +1,13 @@
+.path {
+  stroke-dashoffset: 300;
+  stroke-dasharray: 300;
+  animation: dash 5s linear forwards;
+  fill-opacity: 0;
+}
+
+@keyframes dash {
+  100% {
+    stroke-dashoffset: 0;
+    fill-opacity: 1;
+  }
+}
