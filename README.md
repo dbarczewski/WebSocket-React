@@ -1,4 +1,4 @@
-# Example project with next.js and react
+# Example project with nest.js and react
 
 ## Introduction
 
